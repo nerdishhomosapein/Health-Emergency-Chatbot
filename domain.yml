@@ -182,7 +182,7 @@ templates:
   utter_greet:
   - text: "Hello, I can offer you assistance on emergency situations, what number are you looking for?"
   utter_action_help_ambulance:
-  - text: "The number to call for any type of emergency in Europe is: 112.
+  - text: "The number to call for ambulance in India is: 102.
           Depending of your country you can call the following numbers: 
           Austria - 144
           Belgium - 100
@@ -222,7 +222,7 @@ templates:
           
           -the health insurance service to call is: 800-899-610" 
   utter_action_help_police:
-  - text: "The number to call for any type of emergency in Europe is: 112.
+  - text: "The number to call for police is 100.
           Depending of your country you can call the following numbers: 
           Austria - 133
           Belgium - 101
@@ -254,7 +254,7 @@ templates:
           Switzerland - 117
           Unit Kingdom - 112"       
   utter_action_help_fire:
-  - text: "The number to call for any type of emergency in Europe is: 112.
+  - text: "The number to call for fire is: 101.
           Depending of your country you can call the following numbers: 
           Austria - 122
           Belgium - 100
@@ -286,7 +286,7 @@ templates:
           Switzerland - 118
           Unit Kingdom - 112"       
   utter_action_road_help:
-  - text: "The number to call for any type of emergency in Europe is: 112.
+  - text: "The number to call for any type of emergency in India is: 100.
           Depending of your country you can call the following numbers: 
           Austria - 120
           Belgium - 070-344777
@@ -318,8 +318,9 @@ templates:
           Switzerland - 0800-140140
           Unit Kingdom - 0800-887766"
   utter_action_help_air_rescue:
-  - text: "The number to call for any type of emergency in Europe is: 112.
+  - text: "The number to call for any type of emergency in India is: 100.
           Depending of your country you can call the following numbers: 
+          United States - 911
           Austria - 140
           Belgium - 112
           Bulgaria - 1470
@@ -348,6 +349,6 @@ templates:
           Spain - 112
           Sweden - 112
           Switzerland - 1414
-          Unit Kingdom - 999"        
+          United Kingdom - 999"        
   utter_affirm:
-  - text: "You're welcome"
+  - text: "You're welcome and have a nice day."
